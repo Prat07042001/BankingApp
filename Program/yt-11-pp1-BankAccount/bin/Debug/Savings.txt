@@ -1,0 +1,34 @@
+8/6/2012,Deposit,1000,True
+9/6/2012,Transfer to Checking,200,False
+10/2/2012,Transfer from Checking,1,True
+7/18/2015,Deposit,100,True
+7/18/2015,Transfer from Checking,13.5,True
+7/18/2015,Transfer to Checking,14.5,False
+8/14/2015,Transfer from Checking,400,True
+8/14/2015,Transfer To Savings,750,False
+8/14/2015,Transfer To Savings,550,False
+8/14/2015,Transfer from Checking,550,True
+8/16/2015,Deposit,650,True
+8/16/2015,Transfer From Checking,50,True
+8/16/2015,Transfer To Checking,250,False
+8/16/2015,Withdrawal,500,False
+09-Sep-18,Deposit,1000,True
+09-Sep-18,Deposit,600,True
+09-Sep-18,Withdrawal,2000,False
+09-Sep-18,Deposit,100000,True
+09-Sep-18,Deposit,900,True
+10-Sep-18,Transfer To Checking,100000,False
+10-Sep-18,Transfer From Checking,800,True
+10-Sep-18,Deposit,200,True
+10-Sep-18,Deposit,400,True
+10-Sep-18,Deposit,90,True
+10-Sep-18,Transfer From Checking,100,True
+10-Sep-18,Transfer From Checking,1000,True
+10-Sep-18,Deposit,900,True
+10-Sep-18,Deposit,900,True
+10-Sep-18,Transfer From Checking,100000,True
+10-Sep-18,Withdrawal,900,False
+10-Sep-18,Withdrawal,104489,False
+10-Sep-18,Deposit,300,True
+10-Sep-18,Deposit,500,True
+10-Sep-18,Transfer To Checking,100,False

@@ -1,0 +1,63 @@
+9/2/2012,Deposit,1000,True
+9/7/2012,Transfer from Savings,200,True
+9/15/2012,Check cashed by Electric Co.,75,False
+9/26/2012,Withdrawal,50,False
+10/5/2012,Deposit,37.5,True
+7/18/2015,Deposit,100,True
+7/18/2015,Deposit,100,True
+7/18/2015,Deposit,101,True
+7/18/2015,Transfer to Savings,13.5,False
+7/18/2015,Transfer from Savings,14.5,True
+7/18/2015,Check cashed by Pavol,14.5,False
+8/14/2015,Transfer To Savings,400,False
+8/14/2015,Transfer from Checking,750,True
+8/14/2015,Check to PAlusko,750,False
+8/14/2015,Transfer from Checking,550,True
+8/14/2015,Transfer To Savings,550,False
+8/16/2015,Deposit,100,True
+8/16/2015,Withdrawal,600,False
+8/16/2015,Deposit,1000,True
+8/16/2015,Check to the order of Pavol,650,False
+8/16/2015,Transfer To Savings,50,False
+8/16/2015,Transfer From Savings,250,True
+8/16/2015,Withdrawal,50,False
+09-Sep-18,Deposit,1000,True
+09-Sep-18,Withdrawal,90,False
+09-Sep-18,Deposit,100,True
+09-Sep-18,Deposit,100000,True
+09-Sep-18,Deposit,1000000,True
+09-Sep-18,Deposit,90,True
+09-Sep-18,Deposit,90,True
+09-Sep-18,Withdrawal,200,False
+10-Sep-18,Transfer From Savings,100000,True
+10-Sep-18,Check to the order of Prat,2000,False
+10-Sep-18,Check to the order of Mrs Shah,199990,False
+10-Sep-18,Check to the order of Myles,1000,False
+10-Sep-18,Check to the order of Sam,1000,False
+10-Sep-18,Check to the order of Sebastian,1000,False
+10-Sep-18,Check to the order of Ryan,1000,False
+10-Sep-18,Check to the order of Jackson,1000,False
+10-Sep-18,Transfer To Savings,800,False
+10-Sep-18,Transfer To Savings,100,False
+10-Sep-18,Deposit,100,True
+10-Sep-18,Deposit,1000,True
+10-Sep-18,Withdrawal,1000,False
+10-Sep-18,Transfer To Savings,1000,False
+10-Sep-18,Check to the order of Smitdogz Channel,100000,False
+10-Sep-18,Deposit,300,True
+10-Sep-18,Check to the order of Sam,1000,False
+10-Sep-18,Withdrawal,100000,False
+10-Sep-18,Transfer To Savings,100000,False
+10-Sep-18,Deposit,900,True
+10-Sep-18,Withdrawal,693000,False
+10-Sep-18,Withdrawal,399.99,False
+10-Sep-18,Deposit,0.99,True
+10-Sep-18,Deposit,169000,True
+10-Sep-18,Check to the order of Mrs Shah,500,False
+10-Sep-18,Check to the order of Lloyd,100000,False
+10-Sep-18,Transfer From Savings,100,True
+10-Sep-18,Check to the order of Sam,5000,False
+10-Sep-18,Deposit,90,True
+10-Sep-18,Deposit,9000,True
+10-Sep-18,Check to the order of Ayush,100,False
+21-Sep-18,Deposit,500,True
